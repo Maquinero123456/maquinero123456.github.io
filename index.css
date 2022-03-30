@@ -8,18 +8,3 @@ body{
     margin: -22px;
     
 }
-
-#integrantes{
-    margin: auto;
-    width: 50%;
-    align-items: center;
-}
-
-#integrantes ul{
-    padding-left: 40%;
-}
-#integrantes p{
-    margin-top: 30px;
-    margin-bottom: -12px;
-    padding-left: 33%;
-}
